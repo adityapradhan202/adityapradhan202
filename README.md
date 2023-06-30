@@ -13,7 +13,7 @@
 </p>
 
 ### Currently I am...
-1. I'm making small projects in C programming language because I have just finished studying the fundamentals of C programming language.
+1. Doing small projects in C programming language because I have just finished studying the fundamentals of C programming language.
 2. Learning the core fundamentals of a new programming language. 
 
 <image src="https://media.tenor.com/IyoK-pfHlRQAAAAC/hacker.gif" alt="hacker.tenor.gif" width="350">
