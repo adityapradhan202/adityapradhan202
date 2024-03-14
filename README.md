@@ -14,14 +14,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="40" alt="pandas logo"/>
 </div>
 
-C, Cpp, Python, Numpy, Pandas...
+C, Cpp, Python, Numpy, Pandas, Matplotlib
 
 ### Currently I am...
-- Learning matplotlib
+- Learning streamlit
 - Learning the fundamentals of Data Analytics and Data Visualization
-- Recently completed the fundamental concepts of **[Pandas](https://pandas.pydata.org/)**
+- Recently completed the fundamental concepts of **[Matplotlib](https://matplotlib.org/)**
 - Learning more about APIs
 
 <image src="https://media.tenor.com/IyoK-pfHlRQAAAAC/hacker.gif" alt="hacker.tenor.gif" width="350">
