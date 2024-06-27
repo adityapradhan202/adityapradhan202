@@ -6,7 +6,7 @@
 :sweat_smile: Pursuing BTech in CSE at VIT (2nd year) 
 :wink: I'm not only a programmer, but a music lover and weeb too. You guys should try my [playlist](https://open.spotify.com/playlist/2loIBh5753F17YqHufCY95?si=02312e3fb0db43c7), and checkout my [animelist](https://myanimelist.net/animelist/wackyEsper). Also, I think every programmer is a nature lover like me and I am not the only one who loves listening to rain sounds and rain music while coding.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_eccentric_adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adipradhan202/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_eccentric_adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adipradhan202/)  
 Also, you can chat with me on my personal [Discord Server](https://discord.gg/x72rSM29XP) that I created for fellow developers.
 
 #### Skills, languages and tools<div align='center'>
