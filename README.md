@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC07&random=false&width=435&lines=I'm+Aditya+Pradhan%2C;a+python+developer%2C;who+automates+stuff%2C;and+creates+machine+learning+models)](https://git.io/typing-svg)
 
 #### About me
-:beginner: I'm more into Machine Learning than anything else :skull:  
+:beginner: I'm more into AI and Machine Learning than anything else :skull:  
 :poultry_leg: Making cool stuff and forcing people to say the word, "Wow", that's what I do! People generally love the stuff I make.  
 :sweat_smile: Pursuing BTech in CSE at VIT (2nd year) 
 :wink: I'm not only a programmer, but a music lover and weeb too.
