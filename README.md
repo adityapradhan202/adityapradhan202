@@ -1,6 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" width="300" >
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BAA0&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
 
 ### About me
