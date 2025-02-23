@@ -1,3 +1,5 @@
+![gif](https://giffiles.alphacoders.com/105/105224.gif)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BAA0&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
 
 ### About me
