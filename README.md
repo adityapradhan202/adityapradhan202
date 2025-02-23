@@ -6,10 +6,11 @@
 **Currently learning:** Unsupervised machine learning and basics of natural language processing.
 
 ### Skills, languages and tools
-1. Programming languages: c, c++, java, python
-2. Data analysis and data visualization: numpy, pandas, matplotlib, seaborn, plotly
-3. Machine learning: scikit-learn
-4. Deep learning: pytorch basics
+1. **Programming languages:** c, c++, java, python
+2. **Data analysis and data visualization:** numpy, pandas, matplotlib, seaborn, plotly
+3. **Machine learning:** scikit-learn
+4. **Basics of deep** learning: pytorch
+5. **Basics of nlp:** spacy
 
 ### Publications  
 Research paper - [Noral](https://ijircce.com/admin/main/storage/app/pdf/7rUnXm1zcnu4s05s07tYOWFS5XqLAnj3H2MgEP1P.pdf)
