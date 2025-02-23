@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
 ### About me
 :beginner: Flooding my brain with tons of data everyday.  
-:dart: Pursuing BTech in CSE at VIT (2nd year) 
+:dart: Sophomore at VIT. Pursuing Btech in CSE(with specialization in AIML).
 
 ### Skills, languages and tools
 1. **Programming languages:** c, c++, java, python
