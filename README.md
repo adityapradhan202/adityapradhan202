@@ -11,6 +11,3 @@
 3. **Machine learning:** scikit-learn
 4. **Basics of deep** learning: pytorch
 5. **Basics of nlp:** spacy
-
-### Publications  
-Research paper - [Noral](https://ijircce.com/admin/main/storage/app/pdf/7rUnXm1zcnu4s05s07tYOWFS5XqLAnj3H2MgEP1P.pdf)
