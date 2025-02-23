@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC07&random=false&width=435&lines=I'm+Aditya+Pradhan%2C;a+python+developer%2C;who+automates+stuff%2C;and+creates+machine+learning+models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
 
 #### About me
 :beginner: I'm more into AI and Machine Learning than anything else :skull:  
