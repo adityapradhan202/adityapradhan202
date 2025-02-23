@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BAA0&width=435&lines=I+am+Aditya+Pradhan;A+python+developer;A+data+science+and+machine+learning+developer)](https://git.io/typing-svg)
+
 ### About me
 :beginner: Flooding my brain with tons of data everyday.  
 :dart: Sophomore at VIT. Pursuing Btech in CSE with specialization in AIML.
@@ -9,6 +10,5 @@
 3. **Machine learning:** scikit-learn
 4. **Basics of deep** learning: pytorch
 5. **Basics of nlp:** spacy
-
 
 **Currently learning:** Unsupervised machine learning and basics of natural language processing.
