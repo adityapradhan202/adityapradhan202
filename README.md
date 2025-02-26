@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA700&width=435&lines=I+am+Aditya+Pradhan;An+AI+enthusiast...)](https://git.io/typing-svg)
-
-### About me
+Hi, I'm Aditya Pradhan.  
+I'm interested in data science, machine learning, and artificial intelligence.  
 :beginner: Flooding my brain with tons of data everyday.  
 :dart: Sophomore at VIT. Pursuing Btech in CSE with specialization in AIML.
 
