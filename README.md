@@ -1,4 +1,4 @@
-Hi, I'm Aditya Pradhan.  
+**Hi, I'm Aditya Pradhan.** 
 I'm interested in data science, machine learning, and artificial intelligence.  
 :beginner: Flooding my brain with tons of data everyday.  
 :dart: Sophomore at VIT. Pursuing Btech in CSE with specialization in AIML.
