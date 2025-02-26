@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007EF7&width=435&lines=I'm+Aditya;An+AI+ensthusiast...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CC906&width=435&lines=I+am+Aditya;An+AI+enthusiast)](https://git.io/typing-svg)
 
 ### About me
 :beginner: Flooding my brain with tons of data everyday.  
