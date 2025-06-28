@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan" alt="Typing SVG" /></a>
 
 I'm interested in data science, machine learning, and artificial intelligence.  
 
