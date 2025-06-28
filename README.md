@@ -5,7 +5,7 @@
 :dart: Pursuing Btech in CSE AIML at VIT (Third Year).
 
 **Publications:**  
-AI Driven Oral Healthcare Appointment System - [Noral](https://ijircce.com/admin/main/storage/app/pdf/7rUnXm1zcnu4s05s07tYOWFS5XqLAnj3H2MgEP1P.pdf)
+Noral - AI Driven Oral Healthcare Appointment System -> [Research Paper](https://ijircce.com/admin/main/storage/app/pdf/7rUnXm1zcnu4s05s07tYOWFS5XqLAnj3H2MgEP1P.pdf)
 
 **Some Academic projects:**  
 1. [Grimoire Guide](https://github.com/adityapradhan202/Grimoire-Guide) - NLP powered chatbot that searches the best books for the users based on the descriptions provided by them.
