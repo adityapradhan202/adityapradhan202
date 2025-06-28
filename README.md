@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan" alt="Typing SVG" /></a>** 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan" alt="Typing SVG" /></a>
 
 :beginner: Flooding my brain with tons of data everyday.  
 :dart: Pursuing Btech in CSE AIML at VIT (Third Year).
