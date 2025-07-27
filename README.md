@@ -10,7 +10,11 @@
 2. [Binge Trend](https://github.com/adityapradhan202/Binge-Trend) - Media and entertainment website, which leverages and nlp and machine learning for it's recommendation system.
 3. [Noral](https://github.com/adityapradhan202/Noral) - AI driven oral healthcare appointment system.
 
-![img](https://giffiles.alphacoders.com/105/105224.gif)
+<div style="display:flex;">
+  <div><img src="Use nature to reset from coding stress." width="300"></div>
+  <p>Spend some time with nature to kill the burnout caused by coding</p>
+</div>
+
 
 ### Tech Stack and Skills:
 * **Languages:** C, C++, Java, Python.
