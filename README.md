@@ -5,7 +5,7 @@
 * A python nerd who believes in the power of readable code.
 * Pursuing Btech in CSE AIML at VIT (Third Year).
 
-<img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" width="300" alt="image">
+![img](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif)
 
 ### Personal/Academic Projects:
 1. [Grimoire Guide](https://github.com/adityapradhan202/Grimoire-Guide) - NLP powered chatbot that searches the best books for the users based on the descriptions provided by them.
