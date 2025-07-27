@@ -6,8 +6,7 @@
 * Pursuing Btech in CSE AIML at VIT (Third Year).
 
 ### Skills:
-* Data preprocessing and data visualization.
-* Machine Learning (Deep Knowledge), NLP (Basic), Deep Learning (Basic).
+I have deep knowledge in data preprocessing, data visualization and machine learning. I know the basics of natural language processing and deep learning.
 
 ### Languages, libraries, frameworks, and Tools:
 <div>
