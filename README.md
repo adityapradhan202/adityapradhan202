@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan" alt="Typing SVG" /></a>
-
+## Hi! I am Aditya Pradhan 😁
 ### About me
 * I'm a nerd when it comes to python.
 * A python nerd who believes in the power of readable code.
@@ -12,7 +11,7 @@
 * **Skills:** Data Preprocessing and Data visualization, Maching Learning (Deep Knowledge), NLP (Fundamentals), Deep Learning (basic).
 
 > Integrate natural environments or nature-based ambient settings as stress-reduction tools during coding work. (personally tested)
-<img src="https://giffiles.alphacoders.com/105/105224.gif" width="300">
+<img src="https://giffiles.alphacoders.com/105/105224.gif" width="400">
 
 ### Personal/Academic Projects:
 1. [Grimoire Guide](https://github.com/adityapradhan202/Grimoire-Guide) - NLP powered chatbot that searches the best books for the users based on the descriptions provided by them.
