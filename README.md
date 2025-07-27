@@ -15,7 +15,7 @@
 2. [Binge Trend](https://github.com/adityapradhan202/Binge-Trend) - Media and entertainment website, which leverages and nlp and machine learning for it's recommendation system.
 3. [Noral](https://github.com/adityapradhan202/Noral) - AI driven oral healthcare appointment system.
 
-> Integrate natural environments or nature-based ambient settings as stress-reduction tools during coding work. (personally tested)
+> Leverage natural spaces or ambient nature sounds to combat coding stress. (personally tested)
 <img src="https://giffiles.alphacoders.com/105/105224.gif" width="400">
 
 ### Publications:
