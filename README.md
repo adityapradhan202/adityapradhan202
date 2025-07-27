@@ -11,7 +11,7 @@
 3. [Noral](https://github.com/adityapradhan202/Noral) - AI driven oral healthcare appointment system.
 
 <div style="display:flex;">
-  <div><img src="Use nature to reset from coding stress." width="300"></div>
+  <img src="Use nature to reset from coding stress." width="300">
   <p>Spend some time with nature to kill the burnout caused by coding</p>
 </div>
 
