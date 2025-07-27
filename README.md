@@ -5,13 +5,11 @@
 * A python nerd who believes in the power of readable code.
 * Pursuing Btech in CSE AIML at VIT (Third Year).
 
-![img](https://animesher.com/orig/1/113/1130/11306/animesher.com_transparent-background-anime-boy-1130633.gif)
-
 ### Personal/Academic Projects:
 1. [Grimoire Guide](https://github.com/adityapradhan202/Grimoire-Guide) - NLP powered chatbot that searches the best books for the users based on the descriptions provided by them.
 2. [Binge Trend](https://github.com/adityapradhan202/Binge-Trend) - Media and entertainment website, which leverages and nlp and machine learning for it's recommendation system.
 3. [Noral](https://github.com/adityapradhan202/Noral) - AI driven oral healthcare appointment system.
-
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFRQjM-wM_nXMA03AGDXgJK3VeX7vtD3ctA&s)
 ### Tech Stack and Skills:
 * **Languages:** C, C++, Java, Python.
 * **Libraries and frameworks:** Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Pytorch, Streamlit, Spacy, Gensim.
