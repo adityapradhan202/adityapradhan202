@@ -11,7 +11,9 @@
 3. [Noral](https://github.com/adityapradhan202/Noral) - AI driven oral healthcare appointment system.
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://giffiles.alphacoders.com/105/105224.gif" width="300">
+  <div>
+  <img src="https://giffiles.alphacoders.com/105/105224.gif" width="500">
+  </div>
 </div>
 
 
