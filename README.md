@@ -5,11 +5,9 @@
 * A python nerd who believes in the power of readable code.
 * Pursuing Btech in CSE AIML at VIT (Third Year).
 
-### Tech Stack and Skills:
-* **Languages:** C, C++, Java, Python.
-* **Libraries and frameworks:** Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Pytorch, Streamlit, Spacy, Gensim.
-* **Database:** Sqlite3.
-* **Skills:** Data Preprocessing and Data visualization, Maching Learning (Deep Knowledge), NLP (Fundamentals), Deep Learning (basic).
+### Skills:
+* Data preprocessing and data visualization.
+* Machine Learning (Deep Knowledge), NLP (Basic), Deep Learning (Basic).
 
 ### Languages, libraries, frameworks, and Tools:
 <div>
