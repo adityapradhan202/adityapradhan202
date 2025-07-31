@@ -1,9 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%3A);I'm+Aditya+Pradhan" alt="Typing SVG" width="400"/>
 
 ### About me
-* I'm a nerd when it comes to python.
 * A python nerd who believes in the power of readable code.
 * Pursuing Btech in CSE AIML at VIT (Third Year).
+  
+> Ideas become clearer when you work on them!
 
 ### Skills:
 I have deep knowledge in data preprocessing, data visualization and machine learning. I know the basics of natural language processing and deep learning.
