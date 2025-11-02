@@ -11,7 +11,7 @@ I'm Aditya Pradhan, and I am pursuing Btech in CSE AIML at VIT (Third Year).
 Noral - AI Driven Oral Healthcare Appointment System -> [Research Paper](https://ijircce.com/admin/main/storage/app/pdf/7rUnXm1zcnu4s05s07tYOWFS5XqLAnj3H2MgEP1P.pdf)
 
 ### Problem Solving:
-**Leetcode** - [leetcode/adityapradhan202](https://leetcode.com/u/adityapradhan202/)
+**Leetcode** - [leetcode/adityapradhan202](https://leetcode.com/u/adityapradhan202/)  
 **GeekForGeeks** - [geekforgeeks/adityapradhan202](https://www.geeksforgeeks.org/user/adityaprabao2/)
 
 ### Get in touch:
