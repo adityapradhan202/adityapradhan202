@@ -1,4 +1,4 @@
-I'm Aditya Pradhan, and I am pursuing Btech in CSE AIML at VIT (Third Year).
+I'm Aditya Pradhan, and I am pursuing Btech in CSE AIML at VIT (Final year).
   
 > Ideas become clearer when you work on them!
 
